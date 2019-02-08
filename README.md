@@ -52,6 +52,11 @@ Right now is in private beta. Basically should be the same as Pramp, but as I've
 https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg - example
 
 
+## System Design
+
+Perfect resource on system design
+https://github.com/donnemartin/system-design-primer
+
 ## Books:
 
 ### Cracking the coding interview - Gayle Laakmann McDowell
