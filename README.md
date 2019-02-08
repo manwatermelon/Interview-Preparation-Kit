@@ -84,3 +84,4 @@ https://www.youtube.com/channel/UCw0uQHve23oMWgQcTTpgQsQ
 
  - add bit more regarding every resource.
  - prettify reference links, check dillinger.io
+ - add toc
