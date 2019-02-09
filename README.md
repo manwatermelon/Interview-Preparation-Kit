@@ -1,8 +1,9 @@
 
-# Coding-Interview-Preparation-Kit
+# SDE Interview Preparation Kit
 
 Table of contents
 
+0. [Preface](#0-preface)
 1. [CV](#1-cv)
 2. [Youtube resources](#2-youtube-resources)
 3. [Coding websites](#3-coding-websites)
@@ -11,6 +12,10 @@ Table of contents
 6. [Interview Process](#6-interview-process)
 
 Some backstory. After my first serious interview I have accumulated a bit of resources that I thought were useful for others to use. This is a try to get them classified and sorted.
+
+## 0. Preface
+
+Right now the trend for general SDE (software development engineer) positions is to focus on data structures, algorithms, system design and behavioral (experience) questions on interviews. The exact breakdown varies from company to company, but still the majority of questions will still be based on how you undestand and use CS fundamentals.
 
 ## 1. CV
 
