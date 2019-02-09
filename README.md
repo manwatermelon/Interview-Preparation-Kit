@@ -115,6 +115,10 @@ Last but not the least part. Many of the things are straightforward, will still 
 
 Good videos on overall interviewing process. Focused more on Amazon and behavioral principles, still can be applied to general engineering positions.
 
+### 6.2 [iOS Developer Interview Experience]
+
+Nice read regarding interview process in top companies. Also, good follow-up on offer negotiation.
+
 [//]: #
 [linkedin tips]: <https://www.themuse.com/advice/10-ways-to-improve-your-linkedin-profile-in-under-5-minutes>
 [gaurav sen]: <https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw>
@@ -135,3 +139,4 @@ Good videos on overall interviewing process. Focused more on Amazon and behavior
 [star]: <https://en.wikipedia.org/wiki/Situation,_task,_action,_result>
 [typical questions]: <https://www.totaljobs.com/insidejob/most-common-interview-questions/>
 [dan croitor]: <https://www.youtube.com/channel/UCw0uQHve23oMWgQcTTpgQsQ>
+[iOS Developer Interview Experience]: <https://blog.usejournal.com/i-interviewed-at-six-top-companies-in-silicon-valley-in-six-days-and-stumbled-into-six-job-offers-fe9cc7bbc996>
