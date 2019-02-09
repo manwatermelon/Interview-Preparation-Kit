@@ -68,25 +68,29 @@ Right now is in private beta. Basically should be the same as Pramp, but as I've
 ## System Design
 
 **Perfect** resource on system design by Facebook engineering manager.
-<https://github.com/donnemartin/system-design-primer>
+
+- <https://github.com/donnemartin/system-design-primer>
 
 ## Books
 
 ### Cracking the coding interview - Gayle Laakmann McDowell
 
 De-facto standard. Must read before any engineering interview. Contains many problems with solutions.
-<http://www.crackingthecodinginterview.com/>
+
+- <http://www.crackingthecodinginterview.com/>
 
 ### Elements of Programming Interviews - Adnan Aziz, Amit Prakash, and Tsung-Hsien Lee
 
 A bit advanced and different approach compared to Ctci.
-<https://elementsofprogramminginterviews.com/>
-<https://github.com/adnanaziz/EPIJudge>
+
+- <https://elementsofprogramminginterviews.com/>
+- <https://github.com/adnanaziz/EPIJudge>
 
 ### Introduction to Algorithms - Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen
 
 Old but gold.
-<https://en.wikipedia.org/wiki/Introduction_to_Algorithms>
+
+- <https://en.wikipedia.org/wiki/Introduction_to_Algorithms>
 
 ## Interview Process
 
