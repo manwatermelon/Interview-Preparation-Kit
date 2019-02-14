@@ -15,7 +15,7 @@ Some backstory. After my first serious interview I have accumulated a bit of res
 
 ## 0. Preface
 
-Right now the trend for general SDE (software development engineer) positions is to focus on data structures, algorithms, system design and behavioral (experience) questions on interviews. The exact breakdown varies from company to company, but still the majority of questions will still be based on how you undestand and use CS fundamentals.
+Right now the trend for general SDE (software development engineer) positions is to focus on data structures, algorithms, system design and behavioral (experience) questions on interviews. The exact breakdown varies from company to company, but still the majority of questions will still be based on how you understand and use CS fundamentals.
 
 ## 1. CV
 
@@ -61,7 +61,7 @@ decent [compiled problem kit]
 
 ### 3.2. [LeetCode]
 
-Basically the same as hackerrank, compares your results to other submissions.
+Basically the same as HackerRank, compares your results to other submissions.
 
 ### 3.3. [GeeksForGeeks]
 
@@ -71,7 +71,7 @@ Contains good amount of interview questions, even by employer. Amazing resource.
 
 *Disclaimer: link contains referral for extra credits given to you.*
 
-The **best** so far resource to train phone like coding interview and to get over interview anxiety. Also has multiple different sections such as behavioral questions and system design (not limited to). Strongly recommend to get practice via Pramp. The session is splitted in two parts, in one of them you are interviewer and your partner is interviewee, then you switch sides.
+The **best** so far resource to train phone like coding interview and to get over interview anxiety. Also has multiple different sections such as behavioral questions and system design (not limited to). Strongly recommend to get practice via Pramp. The session is split in two parts, in one of them you are interviewer and your partner is interviewee, then you switch sides.
 [Couple of yt examples]
 
 ### 3.5. Interviewing.io
